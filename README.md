@@ -443,9 +443,7 @@ Free for personal and commercial use!
 
 - 🐛 [Report bugs](https://github.com/OrbitScript/vision-guard/issues)
 - 💡 [Suggest features](https://github.com/OrbitScript/vision-guard/discussions)
-- 📧 Email: support@orbitscript.dev
-- 🐦 Twitter: @OrbitScript
-
+- 📧 Email: sumanskd44@gmail.com
 ---
 
 ## 📈 Impact Stats
